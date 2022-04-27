@@ -56,8 +56,6 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Codetropy is a set of microservice which watches over your project directory and calculates the change in the total as well as the specific file by continuously watching over the addition and deletion of characters within the project directory.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -97,8 +95,6 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Install the codetropy package locally in the project structure.
 
